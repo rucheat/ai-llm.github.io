@@ -1,1 +1,6 @@
-{User.Email}
+Please provide - System.Activity.Recipient.Name
+Or this is - {System.Activity.Recipient.Name}
+This is correct - 
+{
+System.Activity.Recipient.Name
+}
