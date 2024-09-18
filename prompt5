@@ -1,3 +1,4 @@
-{ {Topic.Var1} } 
-
-This is test. 
+Topic.Var1
+User.Email
+System.Activity.Recipient.Name
+{System.Activity.Recipient.Name}
